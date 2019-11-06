@@ -72,4 +72,7 @@ Welome or Welcome to the Beta
 
 That's the most basic way to use the Toggle Feature
 
+Thanks to Andrew Lock for providing the original example here: https://andrewlock.net/introducing-the-microsoft-featuremanagement-library-adding-feature-flags-to-an-asp-net-core-app-part-1/
+
+
 
